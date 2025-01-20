@@ -10,7 +10,7 @@
 
 <!--- serpiente -->
 <div align="center">
-  <img  src="https://img.freepik.com/vector-premium/pancarta-azul-etiqueta-azul-que-dice-perfil-ingeniero-software_810894-48.jpg" />
+  <img  src="blob:https://web.whatsapp.com/c031fb7d-57bf-4e41-88db-22df83a06b05" />
 </div>
 
 <!--h2 sin borde inferior-->
