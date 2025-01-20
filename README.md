@@ -4,7 +4,7 @@
 <!--h1 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola 👋, soy Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola 👋, soy WillFx</h1></summary>
   </ul>
 </div>
 
@@ -17,19 +17,18 @@
 <!--h2 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
+    <summary><h2 style="display: inline-block">Si lo puedes Imaginar , Lo puedes programar.</h2></summary>
   </ul>
 </div>
 
 <!--Introducción-->
 <ul>
-  <li>🔭 Actualmente estoy trabajando en **AWS, React, React Native, Nodejs, MongoDB**</li>
-  <li>🌱 Actualmente estoy aprendiendo **a combinar múltiples stacks Hyper Beast para aplicaciones escalables.**</li>
-  <li>☁️ Tengo un gran interés en la computación en la nube, por lo que estoy aprendiendo **AWS.**</li>
-  <li>📝 Escribo regularmente artículos en <a href="https://1010nishant.hashnode.dev/">Hashnode</a></li>
-  <li>💬 Pregúntame sobre **AWS, React, React Native, Nodejs, MongoDB**</li>
-  <li>📫 No dudes en contactarme en **nishantjangid6377@gmail.com**</li>
-  <li>🏠 No dudes en saludarme en Discord – <a href="https://discordapp.com/users/957722095381540874">1010nishant</a>, ¡mi usuario!</li>
+  <li>🔭 Actualmente estoy trabajando estoy realizando proyecto personal 'Pagina Web - Escritorio'</li>
+  <li>🌱 Actualmente estoy aprendiendo **Sap - Flutter.**</li>
+  <li>☁️ Tengo un gran interés en la computación en la nube, por lo que estoy aprendiendo **AWS**</li>
+  <li>💬 Pregúntame sobre **Python - java - c# - js**</li>
+  <li>📫 No dudes en contactarme en **wiliamgasteluinga21@gmail.com**</li>
+  <li>🏠 No dudes en saludarme en Discord – <a href="https://discordapp.com/users/957722095381540874](https://discord.gg/Jgw2u5kY">1010nishant</a>, ¡mi usuario!</li>
 </ul>
 
 <!--- estadísticas y trofeos (inicio) -->
