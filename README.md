@@ -22,7 +22,7 @@
 
 <!--Introducción-->
 <ul>
-  <li>🔭 Actualmente estoy trabajando estoy realizando proyecto personal 'Pagina Web - Escritorio'</li>
+  <li>🔭 Actualmente estoy realizando proyectos personales 'Pagina Web - Escritorio'</li>
   <li>🌱 Actualmente estoy aprendiendo **Sap - Flutter.**</li>
   <li>☁️ Tengo un gran interés en la computación en la nube, por lo que estoy aprendiendo **AWS**</li>
   <li>💬 Pregúntame sobre **Python - java - c# - js**</li>
