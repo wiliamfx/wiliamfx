@@ -10,8 +10,7 @@
 
 <!--- serpiente -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="serpiente" />
+  <img  src="https://img.freepik.com/vector-premium/pancarta-azul-etiqueta-azul-que-dice-perfil-ingeniero-software_810894-48.jpg" />
 </div>
 
 <!--h2 sin borde inferior-->
