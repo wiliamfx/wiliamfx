@@ -28,7 +28,7 @@
   <li>☁️ Tengo un gran interés en la computación en la nube, por lo que estoy aprendiendo **AWS**</li>
   <li>💬 Pregúntame sobre **Python - java - c# - js**</li>
   <li>📫 No dudes en contactarme en **wiliamgasteluinga21@gmail.com**</li>
-  <li>🏠 No dudes en saludarme en Discord – <a href="https://discordapp.com/users/957722095381540874](https://discord.gg/Jgw2u5kY">1010nishant</a>, ¡mi usuario!</li>
+  <li>🏠 No dudes en saludarme en Discord – <a href="https://discordapp.com/users/957722095381540874](https://discord.gg/Jgw2u5kY">wilfx</a>, ¡mi usuario!</li>
 </ul>
 
 <!--- estadísticas y trofeos (inicio) -->
