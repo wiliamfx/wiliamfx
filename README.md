@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **wiliamfx/wiliamfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="[https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true](https://png.pngtree.com/background/20220729/original/pngtree-programming-and-coding-banner-working-picture-image_1862296.jpg)" />
   <br><br>
   <img  title="🔥 Obtén estadísticas de racha para tu perfil en git.io/streak-stats" alt="Racha de Mark" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
 </td>
