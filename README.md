@@ -4,7 +4,7 @@
 <!--h1 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola 👋, soy WilBanks</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola 👋, soy WiliamFx</h1></summary>
   </ul>
 </div>
 
@@ -28,7 +28,7 @@
   <li>☁️ Tengo un gran interés en la computación en la nube, por lo que estoy aprendiendo **AWS**</li>
   <li>💬 Pregúntame sobre **Python - java - c# - js**</li>
   <li>📫 No dudes en contactarme en **wiliamgasteluinga21@gmail.com**</li>
-  <li>🏠 No dudes en saludarme en Discord – <a href="https://discordapp.com/users/957722095381540874](https://discord.gg/Jgw2u5kY">WilBanks</a>, ¡mi usuario!</li>
+  <li>🏠 No dudes en saludarme en Discord – <a href="https://discordapp.com/users/957722095381540874](https://discord.gg/Jgw2u5kY">WiliamFx</a>, ¡mi usuario!</li>
 </ul>
 
 <!--- estadísticas y trofeos (inicio) -->
